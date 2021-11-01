@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD025 -->
 # Make a backup of your Chrome bookmarks to your physical machine
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 This script will make a backup of your Chrome bookmarks and
 will copy them on your physical laptop. Please note that your
